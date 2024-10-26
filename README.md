@@ -9,9 +9,10 @@
 </head>
 <body>
 
-  <h1>Parul Travel Website</h1>
+  <h1>connect-shiksha Website</h1>
 
-  <p>This project is part of the Connect Shiksha internship program. It is a travel management website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The website aims to provide a user-friendly platform for managing travel bookings, itineraries, and related services.</p>
+    <p>This project is part of the Connect Shiksha internship program. The Connect Shiksha website is a platform designed to facilitate educational services and resources, built using the MERN stack (MongoDB, Express.js, React.js, Node.js).</p>
+
 
   <h2>Table of Contents</h2>
   <ul>
@@ -23,9 +24,11 @@
     <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#license">License</a></li>
   </ul>
+  
+    <h2 id="project-overview">Project Overview</h2>
+  
+    <p>The Connect Shiksha website aims to provide a user-friendly interface for students and educators to access educational resources, manage their profiles, and interact with various services offered by Connect Shiksha. The project emphasizes seamless user experience and efficient data management.</p>
 
-  <h2 id="about-the-project">About the Project</h2>
-  <p>The Parul Travel project is designed to streamline travel management. Users can book travel plans, manage bookings, and get information on various travel services. It is a full-stack application built as part of a one-month internship with Connect Shiksha.</p>
 
   <h2 id="features">Features</h2>
   <ul>
