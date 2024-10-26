@@ -26,7 +26,8 @@
   
    
     <h2 id="project-overview">Project Overview</h2>
-    <p>The Connect Shiksha website aims to provide a user-friendly interface for students and educators to access educational resources, manage their profiles, and interact with various services offered by Connect Shiksha. The project emphasizes seamless user experience and efficient data management.</p>
+    <p>The Connect Shiksha website aims to provide a user-friendly interface for students and educators to access educational resources, manage their profiles, and interact with various 
+      services offered by Connect Shiksha. The project emphasizes seamless user experience and efficient data management.</p>
 
 
   <h2 id="features">Features</h2>
