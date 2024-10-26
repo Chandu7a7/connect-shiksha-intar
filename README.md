@@ -45,8 +45,8 @@
   <p>To set up the project locally:</p>
   <ol>
     <li><strong>Clone the repository:</strong>
-      <pre><code>git clone https://github.com/Chandu7a7/parul-travel.git
-cd parul-travel</code></pre>
+      <pre><code>git clone https://github.com/Chandu7a7/connect-shiksha-intar.git
+cd connect-shiksha-intar</code></pre>
     </li>
     <li><strong>Install Dependencies:</strong> Navigate to the frontend and backend directories and install the required packages.
       <pre><code># In the root directory
@@ -78,7 +78,7 @@ npm start</code></pre>
   </ul>
 
   <h2 id="project-structure">Project Structure</h2>
-  <pre><code>connect-shiksha-website/
+  <pre><code>connect-shiksha-intar/
 ├── client/             # Frontend React application
 │   ├── public/         
 │   └── src/            # React components, hooks, etc.
