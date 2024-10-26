@@ -10,7 +10,6 @@
 <body>
 
   <h1>connect-shiksha Website</h1>
-
   <p>This project is part of the Connect Shiksha internship program. The Connect Shiksha website is a platform designed to facilitate educational services and resources, built using the MERN stack (MongoDB, Express.js, React.js, Node.js).</p>
 
 
@@ -73,18 +72,18 @@ npm run dev
 # In a separate terminal, start frontend
 cd client
 npm start</code></pre>
-    </li>
-  </ol>
+        </li>
+    </ol>
 
-  <h2 id="usage">Usage</h2>
-  <ul>
-    <li><strong>Access the Web Application:</strong> Visit <a href="http://localhost:3000">http://localhost:3000</a> to view the frontend.</li>
-    <li><strong>Admin and User Authentication:</strong> Use separate logins for users and admins to access different functionalities.</li>
-    <li><strong>Manage Bookings:</strong> Users can create and view bookings, while admins can manage all bookings and user details.</li>
-  </ul>
+    <h2 id="usage">Usage</h2>
+    <ul>
+        <li><strong>Access the Web Application:</strong> Visit <a href="http://localhost:3000">http://localhost:3000</a> to view the frontend.</li>
+        <li><strong>User and Admin Authentication:</strong> Use the designated logins for different user types to access features.</li>
+        <li><strong>Manage Resources:</strong> Users can create, view, and manage educational resources, while admins can oversee all functionalities.</li>
+    </ul>
 
-  <h2 id="project-structure">Project Structure</h2>
-  <pre><code>parul-travel/
+    <h2 id="project-structure">Project Structure</h2>
+    <pre><code>connect-shiksha-website/
 ├── client/             # Frontend React application
 │   ├── public/         
 │   └── src/            # React components, hooks, etc.
@@ -94,10 +93,19 @@ npm start</code></pre>
 │   ├── models/         # MongoDB models
 │   ├── routes/         # Express routes
 │   └── utils/          # Utility functions
-└── README.md</code></pre>
+└── README.add</code></pre>
 
-  <h2 id="license">License</h2>
-  <p>This project is licensed under the MIT License.</p>
+    <h2 id="contributions">Contributions</h2>
+    <p>During my internship at Connect Shiksha, I contributed to:</p>
+    <ul>
+        <li>Developing key features for user authentication and profile management.</li>
+        <li>Creating RESTful APIs to facilitate communication between the frontend and backend.</li>
+        <li>Implementing responsive design elements to enhance user experience.</li>
+        <li>Collaborating with the team to conduct testing and bug fixes.</li>
+    </ul>
+
+    <h2 id="license">License</h2>
+    <p>This project is licensed under the MIT License.</p>
 
 </body>
 </html>
