@@ -11,7 +11,7 @@
 
   <h1>connect-shiksha Website</h1>
 
-    <p>This project is part of the Connect Shiksha internship program. The Connect Shiksha website is a platform designed to facilitate educational services and resources, built using the MERN stack (MongoDB, Express.js, React.js, Node.js).</p>
+  <p>This project is part of the Connect Shiksha internship program. The Connect Shiksha website is a platform designed to facilitate educational services and resources, built using the MERN stack (MongoDB, Express.js, React.js, Node.js).</p>
 
 
   <h2>Table of Contents</h2>
@@ -25,8 +25,8 @@
     <li><a href="#license">License</a></li>
   </ul>
   
+   
     <h2 id="project-overview">Project Overview</h2>
-  
     <p>The Connect Shiksha website aims to provide a user-friendly interface for students and educators to access educational resources, manage their profiles, and interact with various services offered by Connect Shiksha. The project emphasizes seamless user experience and efficient data management.</p>
 
 
